@@ -1,5 +1,5 @@
 <p align="center">
-  <h2 align="center"><storng>自动签到</storng></h2>
+  <h2 align="center"><storng></storng></h2>
   <p align="center">
     autoCheck-in
     <br/>
